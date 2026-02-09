@@ -3,6 +3,33 @@ from abc import ABC, abstractmethod
 
 # Decorator pattern allows behavior to be added to objects dynamically by wrapping them in decorator classes that implement the same interface
 
+# what decorators can be used for:
+# - adding logging
+# - adding encryption
+# - adding retry
+# - adding compression
+# - adding authentication
+# - adding authorization
+# - adding caching
+# - adding rate limiting
+# - adding metrics
+# - adding auditing
+# - adding reporting
+# - adding analytics
+# - adding logging
+# - adding encryption
+# - adding retry
+# - adding compression
+# - adding idempotency
+# - adding security
+# - adding compliance
+# - adding auditing
+# - adding reporting
+# - adding analytics
+# - adding logging
+# - adding encryption
+# - adding retry
+# - adding compression
 # ------------------------------
 # COMPONENT
 # ------------------------------
